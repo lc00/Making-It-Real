@@ -1,0 +1,16 @@
+.header{
+	width: 50%;
+	height: 200px;
+	background-color: #2ecc71;
+	margin: 0 auto;
+	display: table;
+}
+
+.vertical-element{
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+{
+
+}
