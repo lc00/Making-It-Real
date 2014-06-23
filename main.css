@@ -7,10 +7,11 @@ body{
 }
 
 .side-panel{
-	/*position: fixed;*/
-	height: 50px;
-	width: 30%;
-	margin-right: 30x;
+	position: fixed;
+	height: 20%;
+	width: 20%;
+	margin: 30% 0 0 78%;
+	background-color: #ecf0f1;
 }
 
 .side-panel ul{
