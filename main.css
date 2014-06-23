@@ -68,8 +68,26 @@ p{
 	padding: 0 20px;
 }
 
-table, th, td{
+.section-table > table, th, td{
 	border: 1px solid grey;
-	width: 100%;
-	height: 100%;
+
+}
+
+.section-table table{
+	margin: 0 10px;
+}
+
+.section-table th{
+	text-align: left;
+}
+
+.section-table td{
+	height: 100px;
+}
+
+
+
+.button{
+	padding: 5px 8px;
+	border: 1px solid;
 }
